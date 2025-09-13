@@ -5,7 +5,7 @@
 
 ---
 
-## 🔥 About Me
+## About Me
 - Strong background in **AI, Data Engineering, and Data Science**  
 - Specialized in **AI modeling, intelligent systems, and applied machine learning**  
 - Experienced with **data pipelines, model training, and production-ready solutions**  
@@ -14,7 +14,7 @@
 
 ---
 
-## 🛠️ Skills
+## Skills
 - **Programming:** Python, JavaScript, TypeScript, SQL  
 - **AI & Data:** TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy  
 - **Data Engineering:** ETL pipelines, Data preprocessing, Feature engineering  
