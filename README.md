@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Saif Alotaibie  
+I'm Saif Alotaibie  
 
 Computer Science Student | Deep Focus on AI & Data Engineering  
 Specialized in **AI Modeling, Data Science, and Intelligent Systems**  
